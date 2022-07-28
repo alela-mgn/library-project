@@ -11,4 +11,3 @@
 
 • Приложение на Spring MVC, Spring Data JPA, Hibernate, Java, Thymeleaf  
 • В качестве базы данных используется PostgreSQL 
----
